@@ -70,4 +70,12 @@ The system provides visual analysis via charts (available in the project directo
 ---
 
 ## 📝 License
-This project was developed for academic research purposes.
+This repository is published for educational, research, and portfolio purposes only.
+
+You are welcome to view the source code for learning and reference. However, copying, modifying, redistributing, re-uploading, or using this code in personal, academic, or commercial projects is not permitted without explicit permission from the author.
+
+If you would like to use any part of this project, please contact:
+
+anpham25052004@gmail.com
+
+© 2026 Pham Quoc An. All Rights Reserved.
